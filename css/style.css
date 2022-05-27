@@ -13,7 +13,7 @@ body {
     font-family: 'Nunito Sans', sans-serif;
     color: #b8c1ec;
     background: #232946;
-display: f;}
+}
 
 h1,
 h2,
@@ -64,7 +64,7 @@ img {
 /* TEXT */
 .text-center {
     text-align: center;
-/* display: block; */display: block;}
+/* display: block; *//* display: block; */}
 
 /************************************************
     SITE SECTIONS
@@ -77,7 +77,7 @@ img {
 
 /* LESSONS SECTION */
 .lessons .col {
-    width: 50%;
+    /* width: 50%; */
 }
 
 .lessons .col img {
