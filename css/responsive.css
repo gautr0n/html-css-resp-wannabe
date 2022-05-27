@@ -1,0 +1,14 @@
+@media screen and (max-width: 1160px) {
+
+
+@media screen and (max-width: 768px) {
+    .container{
+        display: inline;
+    }
+}
+
+}
+
+@media screen and (max-width: 480px) {
+    
+}
